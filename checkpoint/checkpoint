@@ -1,0 +1,2 @@
+model_checkpoint_path: "5_Conv_WDCNN.ckpt"
+all_model_checkpoint_paths: "5_Conv_WDCNN.ckpt"
